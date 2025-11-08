@@ -43,6 +43,7 @@
 # Title: Custom Social Trackers Blocklist Extended
 
 0.0.0.0 ads.youtube.com
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 youtube.cleverads.vn
 0.0.0.0 ads.pinterest.com
 0.0.0.0 log.pinterest.com
