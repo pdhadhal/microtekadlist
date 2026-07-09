@@ -61,3 +61,12 @@
 0.0.0.0 an.facebook.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 static.media.net
+
+0.0.0.0 yieldmanager.com
+0.0.0.0 pubmatic.com
+0.0.0.0 adnxs.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 geo.dailymotion.com
+0.0.0.0 graphql.api.dailymotion.com
+0.0.0.0 developer.dailymotion.com
+
